@@ -1,4 +1,4 @@
-# menu-expo-cli
+# expo-menu-cli
 Menu para agilizar no processo de criação de projetos em React Native utilizando o Expo
 
 ## Como usar
